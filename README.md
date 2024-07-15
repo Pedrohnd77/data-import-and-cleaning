@@ -2,6 +2,10 @@
 
 Origem do dataset: https://www.kaggle.com/datasets/vivovinco/20222023-nba-player-stats-regular/data
 
+## Prep env
+- Install libs:
+    - numpy
+    - pandas
 
 ## Make Exploratory Data Analysis
 - Checking for the duplicates
